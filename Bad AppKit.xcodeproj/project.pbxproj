@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		4BE8E67926222FE40041A5E8 /* bitmaps in Resources */ = {isa = PBXBuildFile; fileRef = 4BE8E67826222FE40041A5E8 /* bitmaps */; };
+		4BE8E681262247590041A5E8 /* bitmaps in Resources */ = {isa = PBXBuildFile; fileRef = 4BE8E680262247560041A5E8 /* bitmaps */; };
 		4BF70349261FF56200E7E6F2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BF70348261FF56200E7E6F2 /* AppDelegate.swift */; };
 		4BF7034B261FF56400E7E6F2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4BF7034A261FF56400E7E6F2 /* Assets.xcassets */; };
 		4BF7034E261FF56400E7E6F2 /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4BF7034C261FF56400E7E6F2 /* MainMenu.xib */; };
@@ -15,7 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		4BE8E67826222FE40041A5E8 /* bitmaps */ = {isa = PBXFileReference; lastKnownFileType = folder; path = bitmaps; sourceTree = "<group>"; };
+		4BE8E680262247560041A5E8 /* bitmaps */ = {isa = PBXFileReference; lastKnownFileType = folder; path = bitmaps; sourceTree = "<group>"; };
 		4BF70345261FF56200E7E6F2 /* Bad AppKit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Bad AppKit.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		4BF70348261FF56200E7E6F2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4BF7034A261FF56400E7E6F2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -61,7 +61,7 @@
 				4BF7034C261FF56400E7E6F2 /* MainMenu.xib */,
 				4BF7034F261FF56400E7E6F2 /* Info.plist */,
 				4BF70350261FF56400E7E6F2 /* Bad_AppKit.entitlements */,
-				4BE8E67826222FE40041A5E8 /* bitmaps */,
+				4BE8E680262247560041A5E8 /* bitmaps */,
 			);
 			path = "Bad AppKit";
 			sourceTree = "<group>";
@@ -123,7 +123,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4BE8E67926222FE40041A5E8 /* bitmaps in Resources */,
+				4BE8E681262247590041A5E8 /* bitmaps in Resources */,
 				4BF7034B261FF56400E7E6F2 /* Assets.xcassets in Resources */,
 				4BF7034E261FF56400E7E6F2 /* MainMenu.xib in Resources */,
 			);
